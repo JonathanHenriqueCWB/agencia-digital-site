@@ -1,0 +1,6 @@
+.main {
+    background-color: white;
+    display: flex;
+    flex-flow: column wrap;
+    gap: 4%;
+}
